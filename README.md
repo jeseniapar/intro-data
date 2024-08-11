@@ -15,6 +15,7 @@
   - Combined variables from two large datasets, the World Bank’s World Development Indicators (WDI) dataset and the World Happiness Report (WHR) from the Sustainable Development Solutions Network. This combination allowed us to leverage specific variables related to the social, political, and economic condition of each country and explore their correlation with the happiness, mental well-being, and attitudes of its citizens. Through a multifaceted approach, our project aimed to uncover the intricate relationships between demographic trends, economic health, labor market conditions, governance quality, and their collective impact on national happiness levels.
 
 
+
 ### Analyzing NCVS Data:
 **Skills/Models**
 - Bar charts / identifying proportions
